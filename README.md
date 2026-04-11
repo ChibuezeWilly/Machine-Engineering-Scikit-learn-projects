@@ -1,18 +1,12 @@
-AI Engineering Foundations: Portfolio
-Chibueze Williams Obodo.
-💡 Overview
-This repository document's my fundamental phase in AI engineering. It showcases my progression from data manipulation and classical statistics to building and evaluating deep learning models. My focus during this phase was on reproducibility, mathematical foundations, and engineering best practices.
+# Scikit-Learn Engineering Foundations.
+Chibueze Williams Obodo
+A collection of end-to-end Machine Learning projects focused on classical statistics, reproducibility, and engineering best practices.
 
-🛠️ Core Tech Stack
-Languages: Python (NumPy, Pandas, Matplotlib)
-Frameworks: PyTorch, Scikit-Learn
-Tools: Jupyter Notebooks, Git, (for environment consistency)
+# Overview
+This repository documents my fundamental phase in AI engineering, specifically focusing on **Classical Machine Learning**. It showcases my ability to move from raw data to production-ready models using Scikit-Learn. I focus on the "why" behind model selection—evaluating mathematical trade-offs to reach an optimal final decision.
 
-📈 Learning Roadmap
-Phase 1: Programming with Python & Math Fundamentals
-Phase 2: Classical ML (Regression, Classification, Clustering)
-Phase 3: Deep Learning & Neural Networks (PyTorch) 
-
-⚙️ How to Explore
-Environment: Each project includes a requirements.txt or environment.yml for easy setup.
-Navigation: Read the README.md inside each folder for a deep dive into the problem statement, methodology, and results.
+# Core Tech Stack
+ - Languages: Python (NumPy, Pandas, Matplotlib)
+ - Visualization: Matplotlib
+ - Frameworks: Scikit-Learn
+ - Tools: Jupyter Notebooks, Git

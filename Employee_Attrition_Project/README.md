@@ -25,22 +25,16 @@ I utilized `GridSearchCV` to optimize the Random Forest model, evaluating perfor
 While Random Forest is a more complex ensemble method, the final evaluation via Classification Reports and Confusion Matrices favored the Logistic Regression model for production.
 
 ### **Performance Comparison**
+| Metric | Logistic Regression (Winner) | Random Forest |
+| :--- | :--- | :--- |
+| **Correctly Predicted: "Stayed"** | **17 / 18** | 16 / 18 |
+| **Missed Leavers (False Negatives)** | **1 (Lower Risk)** | 2 (Higher Risk) |
+| **Correctly Caught: "Leaving"** | **11 / 12** | 10 / 12 |
 
-**| Metric | Logistic Regression (Winner)**
-| :--- | :--- |
-|![Logistic Regression Confusion Matrix](<img width="538" height="432" alt="logistic_regression" src="https://github.com/user-attachments/assets/8a52eba3-d4d1-4d30-8fe6-1ec537277064" />
-)
-| **Correctly Predicted: "Stayed"** | **17 / 18** 
-| **Missed Leavers (False Negatives)** | **1 (Lower Risk)** 
-| **Correctly Caught: "Leaving"** | **11 / 12** 
-
-**| Metric | Random Forest Classifier**
-| :--- | :--- |
-|![Logistic Regression Confusion Matrix](<img width="538" height="438" alt="random_forest_employee_project" src="https://github.com/user-attachments/assets/f2ec3412-0dc4-4949-9175-ed885c3cbe9b" />
-)
-| **Correctly Predicted: "Stayed"** | **16 / 18** 
-| **Missed Leavers (False Negatives)** | **2 (Higher Risk)** 
-| **Correctly Caught: "Leaving"** | **10 / 12** 
+### Visual Results
+| Logistic Regression Confusion Matrix | Random Forest Confusion Matrix
+| :---| :---|
+| <img width="538" height="432" alt="logistic_regression" src="https://github.com/user-attachments/assets/fd07d683-5d2d-467c-917c-55e58956203e" /> | <img width="538" height="438" alt="random_forest_employee_project" src="https://github.com/user-attachments/assets/89f55ad7-9904-468f-be35-c134850c2f3c" />
 
 ### **The "Why" Behind the Decision**
 I selected **Logistic Regression** for production based on three critical factors:

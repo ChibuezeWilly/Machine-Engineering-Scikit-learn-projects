@@ -1,5 +1,4 @@
 # Scikit-Learn Engineering Foundations.
-Chibueze Williams Obodo
 A collection of end-to-end Machine Learning projects focused on classical statistics, reproducibility, and engineering best practices.
 
 # Overview

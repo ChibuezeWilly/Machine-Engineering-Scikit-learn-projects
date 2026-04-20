@@ -26,16 +26,18 @@ While Random Forest is a more complex ensemble method, the final evaluation via 
 
 ### **Performance Comparison**
 
-**| Metric | Logistic Regression (Winner) 
-| :--- | :--- | :--- |
-![Logistic Regression Confusion Matrix](logistic_regression)
+**| Metric | Logistic Regression (Winner)**
+| :--- | :--- |
+|![Logistic Regression Confusion Matrix](<img width="538" height="432" alt="logistic_regression" src="https://github.com/user-attachments/assets/8a52eba3-d4d1-4d30-8fe6-1ec537277064" />
+)
 | **Correctly Predicted: "Stayed"** | **17 / 18** 
 | **Missed Leavers (False Negatives)** | **1 (Lower Risk)** 
 | **Correctly Caught: "Leaving"** | **11 / 12** 
 
-**| Metric | Random Forest Classifier
-| :--- | :--- | :--- |
-![Logistic Regression Confusion Matrix](random_forest_employee_project)
+**| Metric | Random Forest Classifier**
+| :--- | :--- |
+|![Logistic Regression Confusion Matrix](<img width="538" height="438" alt="random_forest_employee_project" src="https://github.com/user-attachments/assets/f2ec3412-0dc4-4949-9175-ed885c3cbe9b" />
+)
 | **Correctly Predicted: "Stayed"** | **16 / 18** 
 | **Missed Leavers (False Negatives)** | **2 (Higher Risk)** 
 | **Correctly Caught: "Leaving"** | **10 / 12** 

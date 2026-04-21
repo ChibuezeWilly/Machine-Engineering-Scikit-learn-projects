@@ -1,0 +1,202 @@
+ticket_text,response_time_hours,customer_tier,issue_type,priority
+"App keeps crashing when I open it",2,premium,bug,high
+"I want to change my password",24,free,account,low
+"Payment failed but money deducted",1,premium,billing,high
+"Cannot login to my dashboard",4,standard,account,high
+"How do I export my data to CSV?",48,free,feature_request,low
+"My subscription is not showing as active",3,premium,billing,medium
+"The latest update broke the search bar",12,standard,bug,medium
+"Urgent: Database connection error on site",1,premium,technical,high
+"Just wanted to say I love the new UI!",72,free,feedback,low
+"Received a double charge this month",2,standard,billing,high
+"Where can I find the API documentation?",24,standard,technical,low
+"Video player is lagging on mobile",10,free,bug,medium
+"I forgot my username",48,free,account,low
+"Request to add dark mode to the app",120,standard,feature_request,low
+"Security alert: unauthorized login attempt",1,premium,security,high
+"Refund request for accidental purchase",5,premium,billing,medium
+"Integrating with Slack is not working",8,standard,technical,medium
+"The site is loading very slowly today",15,free,technical,medium
+"Broken links in the help center",72,free,bug,low
+"Enterprise SSO setup assistance needed",4,premium,technical,high
+"Can I upgrade my plan mid-month?",12,standard,account,low
+"System down - nobody can access the tool",0.5,premium,technical,high
+"Missing data in my weekly report",6,standard,bug,medium
+"How to delete my account permanently?",48,free,account,low
+"Credit card update failed",2,premium,billing,high
+"Keyboard shortcuts not responding",20,free,bug,low
+"White screen after clicking checkout",2,premium,bug,high
+"Inquiry about bulk licensing discounts",24,standard,billing,low
+"Adding a new user gives an error",5,standard,bug,medium
+"Spam filter is blocking real emails",8,premium,technical,medium
+"Would like a refund for the downtime",12,premium,billing,medium
+"Documentation is missing details on webhooks",96,free,feedback,low
+"Reset password link not being sent",3,standard,account,high
+"Mobile app font size is too small",120,free,feature_request,low
+"API returning 500 internal server error",1,premium,technical,high
+"Help with setting up custom domain",10,standard,technical,medium
+"Interface is confusing for new users",72,free,feedback,low
+"Duplicate notifications being sent",15,standard,bug,medium
+"Payment window won't load",2,premium,billing,high
+"Request for a French translation",160,free,feature_request,low
+"Unable to upload profile picture",36,free,bug,low
+"Syncing between phone and laptop failing",6,standard,technical,medium
+"Account locked after too many attempts",2,standard,security,high
+"Page layout is broken on Safari",18,free,bug,low
+"CSV import skipping rows",8,premium,bug,medium
+"How to change my billing currency?",48,free,billing,low
+"Password reset email delayed by hours",5,standard,account,medium
+"Chat support is not connecting",12,standard,technical,medium
+"Feature request: Folders for projects",200,free,feature_request,low
+"Can't view invoice history",24,free,billing,low
+"Application frozen on loading screen",3,premium,bug,high
+"Terms of service clarification needed",120,free,account,low
+"Broken images in email templates",15,standard,bug,medium
+"Plugin not compatible with latest version",8,premium,technical,medium
+"Subscription canceled but still being charged",2,premium,billing,high
+"Font rendering issues on Windows",72,free,bug,low
+"Permission error for team member",4,standard,account,medium
+"Cannot find the 'Cancel' button",48,free,feedback,low
+"Error 404 on the pricing page",5,standard,bug,medium
+"Two-factor authentication code not working",1,premium,security,high
+"Report an offensive user",3,standard,security,medium
+"App crashing on iPad only",10,standard,bug,medium
+"Integration with Salesforce failed",4,premium,technical,high
+"Website background color is too bright",300,free,feedback,low
+"Exporting PDF takes forever",12,standard,technical,medium
+"Account hack suspected - please help",1,premium,security,high
+"Discount code not applying at checkout",5,free,billing,medium
+"How to mute certain notifications?",72,free,feature_request,low
+"Bulk edit tool is deleting entries",2,premium,bug,high
+"Profile data not saving",8,standard,bug,medium
+"Help with Zapier automation",12,standard,technical,medium
+"Can I pay with PayPal?",48,free,billing,low
+"Unable to access premium features",2,premium,account,high
+"Search results are irrelevant",48,standard,bug,low
+"UI elements overlapping on mobile",20,free,bug,low
+"Credit card expired notification loop",4,standard,billing,medium
+"Data visualization charts are empty",6,premium,bug,medium
+"Change owner of the organization",12,premium,account,medium
+"Is there an offline mode?",120,free,feature_request,low
+"Login button is unresponsive",3,standard,bug,high
+"Privacy policy update questions",96,free,feedback,low
+"Email integration stopped syncing",4,premium,technical,high
+"App slow to launch on Android",15,free,technical,medium
+"Missing confirmation email for order",5,standard,billing,medium
+"Cannot download the desktop app",12,free,technical,medium
+"Error message: 'Database busy'",2,premium,technical,high
+"Request for larger file upload limit",72,standard,feature_request,low
+"Team invites are not being received",8,standard,account,medium
+"Incorrect name on the certificate",24,free,bug,low
+"Site keeps logging me out every 5 mins",6,standard,bug,medium
+"Billing address needs correction",48,free,billing,low
+"Support for RTL languages like Arabic",180,free,feature_request,low
+"High CPU usage when app is open",10,premium,bug,medium
+"Global outage reported in my area",1,premium,technical,high
+"Help me understand the analytics tab",24,free,technical,low
+"Undo button doesn't work in editor",15,standard,bug,medium
+"Social media login failing",5,standard,account,medium
+"Custom CSS not applying to profile",72,free,technical,low
+"Security vulnerability found in API",1,premium,security,high
+"Add a 'Save for later' feature",250,free,feature_request,low
+"Cannot change email address in settings",12,standard,account,medium
+"Payment processed twice for same item",2,premium,billing,high
+"Images taking too long to load",12,free,technical,medium
+"Is the site down for maintenance?",3,standard,technical,medium
+"Wrong plan shown in my profile",6,standard,billing,medium
+"Can't find where to add tax ID",48,free,billing,low
+"Auto-save is not working",4,premium,bug,medium
+"Dark mode is too purple",150,free,feedback,low
+"Cannot delete a project",12,standard,bug,medium
+"Lost access to my registered phone number",4,standard,security,high
+"Tooltips are annoying, how to hide?",96,free,feedback,low
+"Broken scroll on landing page",48,free,bug,low
+"Stripe integration keeps disconnecting",3,premium,technical,high
+"How to reset my secret key?",8,standard,security,medium
+"Audit logs are not populating",10,premium,technical,medium
+"Where is the 'Unsubscribe' link?",24,free,account,low
+"Refund status update request",12,standard,billing,low
+"App crashed while saving work",2,premium,bug,high
+"Browser extension not working",15,free,technical,medium
+"Add support for more emojis",300,free,feature_request,low
+"Unauthorized charge on my statement",1,premium,security,high
+"Change my billing date",72,free,billing,low
+"Collaborators can't see my comments",6,standard,bug,medium
+"Getting 'Access Denied' on my own files",3,premium,account,high
+"Formatting lost when pasting text",18,free,bug,low
+"Search bar disappears on small screens",24,standard,bug,low
+"Need help with 1099 tax forms",12,standard,billing,medium
+"Exporting to Excel is failing",8,premium,technical,medium
+"Notification bell doesn't clear",48,free,bug,low
+"Request to join the beta program",96,free,feature_request,low
+"Login is incredibly slow",10,standard,technical,medium
+"Help with SSO certificate renewal",2,premium,security,high
+"Icons are not loading",36,free,bug,low
+"Cannot rename my organization",12,standard,account,medium
+"Unexpected logout during transaction",2,premium,security,high
+"Tutorial video link is broken",72,free,bug,low
+"Feature request: Voice commands",400,free,feature_request,low
+"Missing credits in my account balance",4,standard,billing,high
+"API limit reached too soon",6,premium,technical,medium
+"Color blind mode request",120,standard,feature_request,low
+"Site is down in UK",1,premium,technical,high
+"Cannot find the delete account option",48,free,account,low
+"Scrollbar missing in long lists",72,free,bug,low
+"Subscription didn't renew automatically",3,standard,billing,high
+"Email change needs verification but no mail",5,standard,account,medium
+"How to change my time zone?",96,free,account,low
+"App keeps asking for permissions",12,standard,bug,medium
+"Is there a student discount?",72,free,billing,low
+"Security bug report: XSS found",1,premium,security,high
+"Mobile layout is hard to use",48,free,feedback,low
+"Unable to print receipts",24,free,billing,low
+"Workspace deleted by accident",2,premium,technical,high
+"Terms and conditions link 404",120,free,bug,low
+"Performance issues on Firefox",15,standard,technical,medium
+"Password contains invalid characters error",12,free,account,medium
+"Invitation link expired immediately",8,standard,account,medium
+"Can't see my team's activity",6,premium,technical,medium
+"Need help with webhook setup",12,standard,technical,medium
+"Account hacked - unauthorized activity",1,premium,security,high
+"I don't like the new logo",500,free,feedback,low
+"Credit card is being declined constantly",3,standard,billing,high
+"Broken audio in video uploads",10,premium,bug,medium
+"Dashboard not updating in real-time",4,standard,bug,medium
+"How to contact sales?",24,free,billing,low
+"Forgot my security questions",12,standard,security,medium
+"Feature request: Desktop widget",250,free,feature_request,low
+"Stuck in a login loop",2,premium,bug,high
+"API documentation is outdated",72,free,feedback,low
+"Support for multiple languages in editor",150,standard,feature_request,low
+"Help with API authentication",6,premium,technical,medium
+"Account merge request",24,standard,account,low
+"Unwanted emails after unsubscribing",15,free,bug,medium
+"Data not syncing to cloud",3,premium,technical,high
+"Page jumps when clicking buttons",48,free,bug,low
+"Cannot add more than 5 members",12,standard,account,medium
+"High latency in database queries",2,premium,technical,high
+"Spelling errors in the UI",200,free,bug,low
+"How do I use the search filters?",48,free,technical,low
+"Payment failed twice but charged once",2,premium,billing,high
+"System error on startup",5,standard,bug,high
+"Add a dark theme for the site",120,free,feature_request,low
+"Change my billing frequency",48,free,billing,low
+"User permissions are not saving",8,standard,account,medium
+"Login page doesn't load at all",2,premium,technical,high
+"Broken character encoding in exports",15,standard,bug,medium
+"Where can I see my referral bonus?",72,free,billing,low
+"Cannot change my profile bio",96,free,bug,low
+"API response time is very high",4,premium,technical,medium
+"Help with OAuth2 setup",8,standard,technical,medium
+"Mobile app crashes on start",2,standard,bug,high
+"Cannot remove a team member",12,standard,account,medium
+"I was charged for a free trial",2,premium,billing,high
+"Add more chart types to analytics",180,free,feature_request,low
+"Cannot download invoice as PDF",24,free,billing,low
+"Site is very slow in Australia",12,standard,technical,medium
+"Feature request: Public API",96,standard,feature_request,low
+"Password reset token is invalid",3,standard,account,high
+"Is my data encrypted?",48,free,security,low
+"Help with CSV column mapping",12,free,technical,medium
+"Cannot cancel my subscription online",5,premium,billing,high
+"Footer links are not working",120,free,bug,low
